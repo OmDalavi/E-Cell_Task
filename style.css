@@ -7,7 +7,7 @@ a{
 	color: inherit;
 }
 footer{
-	font-size: 38px;
+	font-size: 30px;
 	font-family: "Segoe UI Regular";
 	text-align: center;
 	letter-spacing: 1px;
@@ -26,7 +26,7 @@ footer{
 	text-align: center;
 	padding-top: 115px;
 	color: white;
-	font-size: 71px;
+	font-size: 63px;
 	letter-spacing: 1px;
 }
 
@@ -34,7 +34,7 @@ footer{
 	margin-top: 60px;
 	display: flex;
 	font-family: "Segoe UI Regular";
-	font-size: 38px;
+	font-size: 30px;
 	justify-content: center;
 
 }
