@@ -51,3 +51,8 @@ footer{
 .contact{
 	color: #0072ff;
 }
+.active{
+	border-bottom-style: solid;
+	border-bottom-width: 6px;
+	border-bottom-color: #0072ff;
+}
