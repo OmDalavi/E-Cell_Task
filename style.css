@@ -11,8 +11,8 @@ footer{
 	font-family: "Segoe UI Regular";
 	text-align: center;
 	letter-spacing: 1px;
-	padding-bottom: 10%;
-	margin-top: 10%;
+	padding-bottom: 8%;
+	margin-top: 7%;
 }
 
 .title-name{
@@ -55,4 +55,5 @@ footer{
 	border-bottom-style: solid;
 	border-bottom-width: 6px;
 	border-bottom-color: #0072ff;
+	color: #0072ff;
 }
