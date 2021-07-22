@@ -1,4 +1,3 @@
-document.querySelectorAll(.nav-item).addEventListener("click",myFunction);
-function myFunction(){
+document.getElementsByClass("card").addEventListener("click",function(){
 	alert("Hello");
-}
+});
