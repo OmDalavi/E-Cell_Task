@@ -52,8 +52,15 @@ footer{
 	color: #0072ff;
 }
 .active{
-	border-bottom-style: solid;
-	border-bottom-width: 6px;
-	border-bottom-color: #0072ff;
+	
 	color: #0072ff;
+}
+.active::after{
+	content: '';
+	display: block;
+	height: 4px;
+	width: 160%;
+	margin-left: -60px;
+	top: 300px; 
+	background: linear-gradient(130deg, #0072FF, #007DFF 41%, #00C6FF 76%);
 }
