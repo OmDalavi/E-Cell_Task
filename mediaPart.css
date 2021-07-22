@@ -44,4 +44,16 @@ img{
 		padding-right: 9%;
 
 	}
+	.nav-item{
+		font-size: 25px;
+	}
+	.sub-heading{
+		font-size: 25px;
+	}
+	.sponsor-nav{
+		font-size: 25px;
+	}
+	footer{
+		font-size: 25px;
+	}
 }
