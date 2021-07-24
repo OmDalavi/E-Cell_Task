@@ -1,0 +1,94 @@
+body{
+	margin: 0;
+	margin-top: -40px;
+}
+a{
+	text-decoration: none;
+	color: inherit;
+}
+footer{
+	font-size: 30px;
+	font-family: "Segoe UI Regular";
+	text-align: center;
+	letter-spacing: 1px;
+	padding-bottom: 2%;
+	margin-top: 7%;
+	font-weight: bold;
+}
+.bottom-div{
+	width: 100%;
+	height: 200px;
+	background-color: black;
+}
+
+
+
+
+
+.title-name{
+	width: 100%;
+	height:200px;
+	background-color: #242424;
+	margin: 0;
+}
+#title-name{
+	font-family: 'Segoe UI Regular';
+	font-weight: lighter;
+	text-align: center;
+	padding-top: 70px;
+	color: white;
+	font-size: 44px;
+	letter-spacing: 1px;
+}
+
+.nav-bar{
+	
+	display: flex;
+	font-size: 30px;
+	justify-content: center;
+	
+	position: relative;
+
+}
+.nav-item{
+	padding-bottom: 1%;
+	margin-left: 120px;
+	letter-spacing: 1px;
+	font-family: "Segoe UI";
+	font-weight: normal;
+	color: #707070;
+	
+	
+}
+
+.active{
+	color: #0072ff;
+}
+.active::after{
+	content: '';
+	display: block;
+	height: 4px;
+	width: 170%;
+	margin-left: -50px;
+	top: 300px; 
+	font-family: 'Segoe UI';
+	font-weight: normal;
+	color: #0072FF;
+	background: linear-gradient(130deg, #0072FF, #007DFF 41%, #00C6FF 76%);
+}
+
+.sponsor-nav{
+	padding-bottom: 1%;
+	font-size: 30px;
+	opacity: 50%;
+	letter-spacing: 1px;
+	padding-bottom: 1%;
+
+}
+.contact{
+	color: #0072ff;
+}
+
+
+
+
